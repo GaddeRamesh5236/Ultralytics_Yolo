@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+venv/
+env/
+myenv/
+.venv/
+
+.ipynb_checkpoints/
+
+runs/
+
+*.pt
+
+.env
+
+.vscode/
